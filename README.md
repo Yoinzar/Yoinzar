@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hello, I'm Yoinzar </h1>
+</div>
 
-<!--
-**Yoinzar/Yoinzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub followers](https://img.shields.io/github/followers/Yoinzar?style=social)](https://github.com/Yoinzar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/joaquin-condori-loayza-a38b6123b/?trk=public_post_feed-actor-name&originalSubdomain=pe)
 
-Here are some ideas to get you started:
+## About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤓: Joaquin's Remix
+- 🛡: Designer | Programmer | VG Developer
+
+<br>
