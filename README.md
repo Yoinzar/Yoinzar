@@ -1,5 +1,6 @@
 <div align="center">
     <h1 align="center">Hello, I'm Yoinzar </h1>
+    <img src="https://imgur.com/IPgSBi9.png">
 </div>
 
 [![GitHub followers](https://img.shields.io/github/followers/Yoinzar?style=social)](https://github.com/Yoinzar)
